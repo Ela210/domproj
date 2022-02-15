@@ -1,0 +1,81 @@
+.cards {
+  display: flex;
+  margin-top: 90px;
+  align-items: center;
+}
+.header-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menu a {
+  color: beige;
+  text-align: center;
+  padding: 15px 15px;
+  text-decoration: none;
+  font-size: 18px;
+}
+.menu {
+  background-color: black;
+  text-align: center;
+  width: 30%;
+  display: flex;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.card {
+  margin: auto;
+}
+
+.logo {
+  height: 100px;
+}
+
+.fa-minus-circle {
+  padding: 15px;
+}
+.fas {
+  padding: 30px;
+}
+.fa-plus-cirlcle {
+  padding: 10px;
+}
+
+footer.p {
+  font-size: 14px;
+  right: 50px;
+}
+
+.card-img-top {
+  height: 200px;
+  width: 287px;
+}
+
+/* .btn-outline-success {
+  margin-left: 250px;
+} */
+
+.abt {
+  text-align: center;
+}
+.about {
+  text-decoration: none;
+}
+a:hover {
+  background-color: grey;
+}
+
+.nave-item {
+  margin-top: 9px;
+}
+
+.form-inline {
+  margin-left: 700px;
+}
+
+body {
+  background-color: lightgrey;
+}
